@@ -1,4 +1,4 @@
-/* libx509lintpq - embed Ruby and run x509lint from a PostgreSQL function
+/* libx509lintpq - run x509lint from a PostgreSQL function
  * Written by Rob Stradling
  * Copyright (C) 2016 COMODO CA Limited
  *
