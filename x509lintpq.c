@@ -23,7 +23,6 @@
 #include "x509lint/messages.h"
 #include "x509lint/checks.h"
 
-#include <gnutls/x509.h>
 #include <stdlib.h>
 #include <string.h>
 
